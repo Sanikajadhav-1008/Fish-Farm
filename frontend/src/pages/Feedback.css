@@ -1,0 +1,5 @@
+.feedback-card { max-width:560px; margin:0 auto; padding:40px 36px; }
+.star-row { display:flex; align-items:center; gap:4px; }
+.star { font-size:2rem; cursor:pointer; color:#ddd; transition:color .15s, transform .1s; user-select:none; }
+.star.active { color:#f39c12; }
+.star:hover { transform:scale(1.15); }

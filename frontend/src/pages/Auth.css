@@ -1,0 +1,8 @@
+.auth-page { min-height:75vh; display:flex; align-items:center; justify-content:center; background:var(--foam); padding:40px 16px; }
+.auth-card { padding:48px 40px; width:100%; max-width:440px; }
+.auth-header { text-align:center; margin-bottom:32px; }
+.auth-icon { font-size:48px; margin-bottom:12px; }
+.auth-header h2 { font-size:1.8rem; margin-bottom:6px; }
+.auth-header p  { color:var(--mist); font-size:14px; }
+.auth-footer { text-align:center; margin-top:24px; font-size:14px; color:var(--mist); }
+.auth-footer a  { color:var(--ocean); font-weight:600; }
